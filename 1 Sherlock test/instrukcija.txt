@@ -1,0 +1,3 @@
+piesinukas:
+ctrl+i
+ctrl+shift+x - iskerpa
