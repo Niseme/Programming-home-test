@@ -1,0 +1,20 @@
+.top{
+width: 800px;
+margin-left: calc((100% - 800px) / 2);
+}
+
+.image {
+    width: 10px;
+    margin-left: 1px;
+}
+
+.navigation{
+    width: 300px;
+    margin-right: 0%;
+    background-color: cadetblue;
+}
+
+.bars{
+    width: 10px;
+    background-color: crimson;
+}
